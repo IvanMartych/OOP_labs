@@ -1,6 +1,6 @@
 # Данный репозиторий содержит выполненные лабораторные работы по предмету "ООП":
 
-- [Лабораторная работа №1 - Вариант 14](https://github.com/IvanMartych/OOP_labs/tree/main/LABS/1_lab)
+- [Лабораторная работа №1 - Вариант 14](https://github.com/IvanMartych/OOP_labs/tree/1_lab/LABS/1_lab)
 
 # Лабораторная работа №1
   
